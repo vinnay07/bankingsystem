@@ -4,4 +4,4 @@ This bank management system allow user to add new customer account, delete accou
 
 Using this system, users can also search any individual account in a few seconds.
 
-Using our bank management system, users can also check any translation in any account.
+Using our bank management system, users can also check any transaction in his account.
